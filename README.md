@@ -1,5 +1,7 @@
 # Bassian Congeners
 
+> **Status:** developed in the open as a working record. This is work in progress: contents may change, and nothing here is peer-reviewed unless stated.
+
 ## Purpose
 
 This project asks whether two unrelated congeneric bird pairs repeatedly
@@ -51,3 +53,7 @@ data audit. No real dataset has been inspected for Goal 001.
 Public mainland/Bassian data, environmental layers, modelling, code,
 dependency setup, remote compute, and manuscript work are deferred until
 later goals explicitly authorise them.
+
+## Licence
+
+Code is released under the [MIT Licence](LICENSE). Text, figures and data created for this project are released under [CC BY-SA 4.0](LICENSE-CONTENT). Third-party material keeps its own terms where stated.
