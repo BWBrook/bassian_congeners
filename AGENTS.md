@@ -56,8 +56,10 @@ scope.
 - Preserve pre-existing worktree changes.
 - Do not use destructive Git actions, including reset, clean, checkout-based
   reversion, or history rewriting.
-- Do not stage, commit, push, publish, or open a pull request unless the active
-  assignment explicitly authorises it.
+- Stage, commit and push coherent, authorised work to Barry's existing remote
+  within the project's data rules.
+- Obtain Barry's explicit authorisation for first public releases, submissions,
+  protected-data disclosure and pull requests to third parties.
 - Change only authorised paths and report the exact footprint.
 - Validate substantive outputs with raw command evidence. A completion summary
   must include files changed, checks run, uncertainty, and final Git status.
